@@ -1,0 +1,9 @@
+[Prompt]: Explique como a randomização funciona na Computação.
+
+[Prompt]: Adapte esse exato texto para Latex.
+
+[Prompt]: Sou um estudante de primeiro semestre de Ciência da Computação. Elabore um texto explicando brevemente os conceitos-chave técnicos de como a randomização funciona em um sistema computacional. O formato do texto deverá ser em LaTeX e, levando em conta que o incluirei em meu próprio documento '.tex', escreva-o tendo em mente que as seções de sua explicação serão incluídas dentro de subseções do meu próprio documento - ou seja, na prática, suas '\textbackslash{}section's serão '\textbackslash{}subsubsections's. Nesse sentido, também, não se preocupe com questões como título, packages e definições. Caso seja necessário o uso de alguma package ou definição específica para algum de seus diagramas, avise-me previamente, que incluirei em meu próprio documento de forma manual.
+
+[Prompt]: Escreva um programa que gera uma string aleatória.
+
+[Prompt]: Escreva um programa na linguagem C que, a partir de um inteiro entre 1 e 100, gera uma string aleatória. A string só pode conter letras e números.  Não esqueça de incluir comentários.
